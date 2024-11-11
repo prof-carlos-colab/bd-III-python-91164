@@ -1,4 +1,4 @@
-# Atividade
+# Atividade Pontuada
 
 ### Obejtivo:
 Criar um CRUD para um usuário:
@@ -27,3 +27,9 @@ Os dados precisam ser salvos no banco de dados.
 - Banco de dados: MySQL
 - Containerização: Docker
 - Orquestração de contêineres: Docker Compose
+
+### Observação: 
+- Os testes devem verificar os dados informados.
+- As exceções deve tratadas e exibidas para o usuário sem parar a execução do programa.
+- Utilize branches para versionamento.
+- Segue em link do repositório como referência.
